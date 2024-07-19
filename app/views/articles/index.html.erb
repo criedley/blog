@@ -1,5 +1,7 @@
 <h1>Articles</h1>
 
+This blog contains <%= Article.public_count %> articles.
+
 <ul>
   <% @articles.each do |article| %>
     <% unless article.archived? %>
