@@ -51,4 +51,3 @@ class ArticlesController < ApplicationController
 :status)
     end
 end
-
