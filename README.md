@@ -8,5 +8,5 @@ Simple blog site demonstrating MVC and REST design patterns
 bin/rails server
 ```
 
-2. Open in browser:
+2. Open in browser:  
 http://localhost:3000
